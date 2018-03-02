@@ -14,4 +14,5 @@ Downlod via githb, unzip and place the folder 'AddNotes' and its content within 
 
 # Homepage and Copyright
 Copyright (c) 2016 Oskar Villani http://www.sdi-research.at
+
 license AGPL v3
