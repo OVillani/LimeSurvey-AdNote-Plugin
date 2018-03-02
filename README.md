@@ -1,5 +1,8 @@
 # LimeSurvey-AddNote-Plugin
-A plugin for LimeSurvey 3.0 and later - easily add notes and todo's to your questions
+A plugin for LimeSurvey 3.0 and later - easily add notes and todo's to your questions.
+
+Screenshot:
+![addnotes](https://user-images.githubusercontent.com/6983432/36913341-e86b2f3a-1e49-11e8-887b-1fa99c5ad711.png)
 
 
 # Purpose
