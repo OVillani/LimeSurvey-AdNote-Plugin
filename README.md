@@ -12,7 +12,8 @@ So this plugin helps for documentation and workflow within the survey and withou
 
 
 # Installation
-Downlod via githb, unzip and place the folder 'addNotes' and its content within the /Limesurvey/plugins/ folder
+Downlod via githb, unzip and place the folder 'addNotes' and its content within the /Limesurvey/plugins/ folder.
+Don't forget to activate the plugin in the Plugin manager (Configuration > Settings > Plugin manager).
 
 
 # Homepage and Copyright
