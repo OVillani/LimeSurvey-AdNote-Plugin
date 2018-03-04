@@ -7,7 +7,7 @@ Screenshot (editing a question):
 
 Screenshot (question overview):
 ![clipboard27](https://user-images.githubusercontent.com/6983432/36948357-29761ab2-1fda-11e8-912f-b047f3a4319a.jpg)
-*Questions overview shows notes and todo's as well*
+*Questions summary shows notes and todo's as well*
 
 # Purpose
 Sometimes it is a good idea to keep some information for questions for the long run.
