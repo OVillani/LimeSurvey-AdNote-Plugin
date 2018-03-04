@@ -2,10 +2,12 @@
 A plugin for LimeSurvey 3.0 and later - easily add notes and todo's to your questions.
 
 Screenshot (editing a question):
-![addnotes](https://user-images.githubusercontent.com/6983432/36913341-e86b2f3a-1e49-11e8-887b-1fa99c5ad711.png)
+![clipboard28](https://user-images.githubusercontent.com/6983432/36948289-ce3ab334-1fd8-11e8-92b3-0a9775798204.jpg)
+*Notes and todo's are edited in the advanced options area on the right side of the view*
 
-Screenshot (question overview)
+Screenshot (question overview):
 ![clipboard27](https://user-images.githubusercontent.com/6983432/36948178-03824928-1fd7-11e8-8e58-4cc3ca81d226.jpg)
+*Questions overview shows notes and todo's as well*
 
 # Purpose
 Sometimes it is a good idea to keep some information for questions for the long run.
