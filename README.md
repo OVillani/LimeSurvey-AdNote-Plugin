@@ -19,8 +19,10 @@ So this plugin helps for documentation and workflow within the survey and withou
 Downlod via githb, unzip and place the folder 'addNotes' and its content within the /Limesurvey/plugins/ folder.
 Don't forget to activate the plugin in the Plugin manager (Configuration > Settings > Plugin manager).
 
+# Roadmap and Ideas
+- Add a summary for todo's somewhere (e.g. in survey plugin settings)
 
 # Homepage and Copyright
 - Homepage: https://github.com/ovillani/LimeSurvey-AdNote-Plugin
-- Created 2018 by Oskar Villani http://www.sdi-research.at
-- Distributed under GNU GENERAL PUBLIC LICENSE Version 3 licence
+- Copyright &copy; 2018 by Oskar Villani http://www.sdi-research.at
+- Distributed under GNU GENERAL PUBLIC LICENSE Version 3
