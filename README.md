@@ -22,5 +22,5 @@ Don't forget to activate the plugin in the Plugin manager (Configuration > Setti
 
 # Homepage and Copyright
 - Homepage: https://github.com/ovillani/LimeSurvey-AdNote-Plugin
-- Copyright (c) 2018 Oskar Villani http://www.sdi-research.at
+- Created 2018 by Oskar Villani http://www.sdi-research.at
 - Distributed under GNU GENERAL PUBLIC LICENSE Version 3 licence
